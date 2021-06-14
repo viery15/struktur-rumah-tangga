@@ -7,9 +7,12 @@ use Illuminate\Support\Facades\Route;
 //RUMAH TANGGA
 Route::get('/', [RumahTanggaController::class, 'index'])->name('rumahTangga');
 Route::get('/RumahTangga/create', [RumahTanggaController::class, 'create'])->name('rumahTangga');
-Route::get('/RumahTangga/edit', [RumahTanggaController::class, 'edit'])->name('rumahTangga');
+Route::get('/RumahTangga/edit/{id}', [RumahTanggaController::class, 'edit'])->name('rumahTangga');
 Route::post('/RumahTangga/store', [RumahTanggaController::class, 'store'])->name('rumahTangga');
 Route::post('/RumahTangga/update', [RumahTanggaController::class, 'update'])->name('rumahTangga');
+Route::get('/RumahTangga/delete/{id}', [RumahTanggaController::class, 'delete'])->name('rumahTangga');
+
+Route::get('/RumahTangga/getListDT', [RumahTanggaController::class, 'getListDT'])->name('rumahTangga');
 
 //PROVINSI
 Route::get('/provinsi/getAll', [WilayahController::class, 'getAllProvinsi'])->name('wilayah');

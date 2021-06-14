@@ -138,7 +138,7 @@
                             <td>@{{ anggota.hubungan_keluarga }}</td>
                             <td>@{{ anggota.tanggal_lahir }}</td>
                             <td>@{{ anggota.jenis_kelamin }}</td>
-                            <td class="text-center"><button class="btn btn-sm btn-danger"><span class="fa fa-trash"></span></button></td>
+                            <td class="text-center"><button v-on:click="deleteAnggota(anggota)" class="btn btn-sm btn-danger"><span class="fa fa-trash"></span></button></td>
                         </tr>
                     </tbody>
                 </table>
