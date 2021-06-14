@@ -1,0 +1,244 @@
+[
+    {
+        "provinsi": "JAWA TIMUR",
+        "kota": [
+            {
+                "id": "3573",
+                "province_id": "35",
+                "name": "KOTA MALANG",
+                "alt_name": "KOTA MALANG",
+                "latitude": -7.975,
+                "longitude": 112.63333,
+                "kecamatan": [
+                    {
+                        "id": "3573010",
+                        "regency_id": "3573",
+                        "name": "KEDUNGKANDANG",
+                        "alt_name": "Kedungkandang, Malang City, East Java, Indonesia",
+                        "latitude": -8.01101,
+                        "longitude": 112.65562,
+                        "kelurahan": [
+                            {
+                                "id": "3573010001",
+                                "district_id": "3573010",
+                                "name": "ARJOWINANGUN",
+                                "latitude": null,
+                                "longitude": null
+                            },
+                            {
+                                "id": "3573010002",
+                                "district_id": "3573010",
+                                "name": "TLOGOWARU",
+                                "latitude": null,
+                                "longitude": null
+                            }
+                        ]
+                      },
+                      {
+                        "id": "3573020",
+                        "regency_id": "3573",
+                        "name": "SUKUN",
+                        "alt_name": "Sukun, Malang City, East Java, Indonesia",
+                        "latitude": -7.99813,
+                        "longitude": 112.61391,
+                        "kelurahan": [
+                            {
+                                "id": "3573020001",
+                                "district_id": "3573020",
+                                "name": "KEBONSARI",
+                                "latitude": null,
+                                "longitude": null
+                              },
+                              {
+                                "id": "3573020002",
+                                "district_id": "3573020",
+                                "name": "GADANG",
+                                "latitude": null,
+                                "longitude": null
+                              }
+                        ]
+                      }
+                ]
+            },
+            {
+                "id": "3578",
+                "province_id": "35",
+                "name": "KOTA SURABAYA",
+                "alt_name": "KOTA SURABAYA",
+                "latitude": -7.26667,
+                "longitude": 112.71667,
+                "kecamatan":[
+                    {
+                        "id": "3578010",
+                        "regency_id": "3578",
+                        "name": "KARANG PILANG",
+                        "alt_name": "Karang Pilang, Surabaya City, East Java, Indonesia",
+                        "latitude": -7.33778,
+                        "longitude": 112.6884,
+                        "kelurahan": [
+                            {
+                                "id": "3578010001",
+                                "district_id": "3578010",
+                                "name": "WARUGUNUNG",
+                                "latitude": null,
+                                "longitude": null
+                              },
+                              {
+                                "id": "3578010002",
+                                "district_id": "3578010",
+                                "name": "KARANG PILANG",
+                                "latitude": null,
+                                "longitude": null
+                              }
+                        ]
+                      },
+                      {
+                        "id": "3578020",
+                        "regency_id": "3578",
+                        "name": "JAMBANGAN",
+                        "alt_name": "Jambangan, Surabaya City, East Java, Indonesia",
+                        "latitude": -7.32108,
+                        "longitude": 112.71819,
+                        "kelurahan": [
+                            {
+                                "id": "3578020001",
+                                "district_id": "3578020",
+                                "name": "PAGESANGAN",
+                                "latitude": null,
+                                "longitude": null
+                              },
+                              {
+                                "id": "3578020002",
+                                "district_id": "3578020",
+                                "name": "KEBONSARI",
+                                "latitude": null,
+                                "longitude": null
+                              }
+                        ]
+                      }
+                ]
+            }
+        ]
+    },
+    {
+        "provinsi": "JAWA TENGAH",
+        "kota": [
+            {
+                "id": "3301",
+                "province_id": "33",
+                "name": "KABUPATEN CILACAP",
+                "alt_name": "KABUPATEN CILACAP",
+                "latitude": -7.57417,
+                "longitude": 108.98861,
+                "kecamatan": [
+                    {
+                        "id": "3301010",
+                        "regency_id": "3301",
+                        "name": "DAYEUHLUHUR",
+                        "alt_name": "Dayeuhluhur, Cilacap Regency, Central Java, Indonesia",
+                        "latitude": -7.22823,
+                        "longitude": 108.60569,
+                        "kelurahan": [
+                            {
+                                "id": "3301010001",
+                                "district_id": "3301010",
+                                "name": "PANULISAN BARAT",
+                                "latitude": null,
+                                "longitude": null
+                              },
+                              {
+                                "id": "3301010002",
+                                "district_id": "3301010",
+                                "name": "PANULISAN",
+                                "latitude": null,
+                                "longitude": null
+                              }
+                        ]
+                    },
+                    {
+                        "id": "3301020",
+                        "regency_id": "3301",
+                        "name": "WANAREJA",
+                        "alt_name": "Wanareja, Cilacap Regency, Central Java, Indonesia",
+                        "latitude": -7.30763,
+                        "longitude": 108.67695,
+                        "kelurahan": [
+                            {
+                                "id": "3301020001",
+                                "district_id": "3301020",
+                                "name": "PURWASARI",
+                                "latitude": null,
+                                "longitude": null
+                              },
+                              {
+                                "id": "3301020002",
+                                "district_id": "3301020",
+                                "name": "CILONGKRANG",
+                                "latitude": null,
+                                "longitude": null
+                              }
+                        ]
+                    }
+                ]
+              },
+              {
+                "id": "3302",
+                "province_id": "33",
+                "name": "KABUPATEN BANYUMAS",
+                "alt_name": "KABUPATEN BANYUMAS",
+                "latitude": -7.45,
+                "longitude": 109.16667,
+                "kecamatan": [
+                    {
+                        "id": "3302010",
+                        "regency_id": "3302",
+                        "name": "LUMBIR",
+                        "alt_name": "Lumbir, Banyumas Regency, Central Java, Indonesia",
+                        "latitude": -7.47979,
+                        "longitude": 108.98588,
+                        "kelurahan": [
+                            {
+                                "id": "3302010001",
+                                "district_id": "3302010",
+                                "name": "CINGEBUL",
+                                "latitude": null,
+                                "longitude": null
+                              },
+                              {
+                                "id": "3302010002",
+                                "district_id": "3302010",
+                                "name": "KEDUNGGEDE",
+                                "latitude": null,
+                                "longitude": null
+                              }
+                        ]
+                      },
+                      {
+                        "id": "3302020",
+                        "regency_id": "3302",
+                        "name": "WANGON",
+                        "alt_name": "Wangon, Banyumas Regency, Central Java, Indonesia",
+                        "latitude": -7.51789,
+                        "longitude": 109.05721,
+                        "kelurahan": [
+                            {
+                                "id": "3302020001",
+                                "district_id": "3302020",
+                                "name": "RANDEGAN",
+                                "latitude": null,
+                                "longitude": null
+                              },
+                              {
+                                "id": "3302020002",
+                                "district_id": "3302020",
+                                "name": "RAWAHENG",
+                                "latitude": null,
+                                "longitude": null
+                              }
+                        ]
+                      }
+                ]
+              }
+        ]
+    }
+]
